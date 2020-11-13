@@ -1,0 +1,46 @@
+
+.home-background{
+    background-image: linear-gradient(rgb(42, 38, 61), rgba(0, 0, 0, 0)),url(arkademy.png);
+    background-position: center;
+    background-size: cover;
+    position:relative;
+    height: 100vh ;
+  }
+  
+  .col{
+    text-align: center;
+  }
+  
+  .desc-1{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 84px;
+    color: white;
+    margin-top: 70px;
+  }
+  
+  .desc-2{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 84px;
+    color: blue;
+  }
+  
+  .desc-3{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 84px;
+    color: blue;
+  }
+  
+  Penjualan{
+    background-image: url(IOT.jpg);
+    background-position: center;
+    background-size: cover;
+    position:relative;
+    height: 100vh ;
+  }
+  
